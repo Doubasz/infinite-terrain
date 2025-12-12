@@ -1,0 +1,22 @@
+# ninja log v7
+49	716	7872409181448147	CMakeFiles/terrain.dir/src/TerrainCache.cpp.obj	32b068771f44d0cd
+17	1660	7872409181053789	CMakeFiles/terrain.dir/src/MeshData.cpp.obj	e26720b6e0f5f23e
+59	2278	7872409181562569	CMakeFiles/terrain.dir/src/TerrainGenerator.cpp.obj	d4de1e687e316a2f
+15	2839	7872410717144631	CMakeFiles/terrain.dir/include/glad.c.obj	d32cf486431c2c36
+17	3469	7872413927596816	CMakeFiles/terrain.dir/src/Mesh.cpp.obj	461ef47226e861d4
+28	3255	7872410717293220	CMakeFiles/terrain.dir/src/Shader.cpp.obj	903966beea9b4047
+29	4211	7872413927734423	CMakeFiles/terrain.dir/src/TerrainChunk.cpp.obj	97d60e96004a1704
+109	5176	7872410718106978	CMakeFiles/terrain.dir/include/imgui/imgui.cpp.obj	15393fef93e29448
+62	1595	7872411420966576	CMakeFiles/terrain.dir/include/imgui/backends/imgui_impl_opengl3.cpp.obj	8c55e1ffaa032eae
+57	1964	7872411420875905	CMakeFiles/terrain.dir/include/imgui/backends/imgui_impl_glfw.cpp.obj	9429f716e0b5f67
+43	2207	7872411420640462	CMakeFiles/terrain.dir/include/imgui/imgui_tables.cpp.obj	f46c0ac72293d2b1
+39	3080	7872411420640462	CMakeFiles/terrain.dir/include/imgui/imgui_draw.cpp.obj	69ed89457b36f1a6
+49	3293	7872411420812264	CMakeFiles/terrain.dir/include/imgui/imgui_widgets.cpp.obj	b79d669dcf5a7d17
+18	3823	7872414679965089	CMakeFiles/terrain.dir/src/Camera.cpp.obj	a2f83200e3b52e08
+22	4784	7872414679965089	CMakeFiles/terrain.dir/src/SkyBox.cpp.obj	c9d81d95ca9e267
+25	5596	7872414679965089	CMakeFiles/terrain.dir/src/Terrain.cpp.obj	84e3ab3aa0e69be3
+34	3997	7872414680097761	CMakeFiles/terrain.dir/src/main.cpp.obj	f07c095ee09b201c
+20	2221	7872416783391270	CMakeFiles/terrain.dir/src/World.cpp.obj	4641877e860f7128
+2222	2466	7872416805333371	C:/Users/etulyon1/Ferhat/code/CPP/openGL/infinite_terrain/terrain.exe	a7582f7dae480176
+16	1414	7872425557673043	CMakeFiles/terrain.dir/src/Camera.cpp.obj	a2f83200e3b52e08
+1415	1656	7872425571691946	C:/Users/etulyon1/Ferhat/code/CPP/openGL/infinite_terrain/terrain.exe	a7582f7dae480176

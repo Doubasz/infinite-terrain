@@ -1,0 +1,3 @@
+C:/Users/etulyon1/Ferhat/code/CPP/openGL/infinite_terrain/build/CMakeFiles/terrain.dir
+C:/Users/etulyon1/Ferhat/code/CPP/openGL/infinite_terrain/build/CMakeFiles/edit_cache.dir
+C:/Users/etulyon1/Ferhat/code/CPP/openGL/infinite_terrain/build/CMakeFiles/rebuild_cache.dir
