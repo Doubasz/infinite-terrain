@@ -43,7 +43,7 @@ void World::render(float dt) {
     glm::mat4 view = camera->getViewMatrix();
     glm::mat4 projection = glm::perspective(
         glm::radians(camera->fov),
-        800.0f / 600.0f,
+        1920.0f / 1080.0f,
         0.1f,
         2000000.0f
     );

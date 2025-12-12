@@ -12,11 +12,9 @@
 43	2207	7872411420640462	CMakeFiles/terrain.dir/include/imgui/imgui_tables.cpp.obj	f46c0ac72293d2b1
 39	3080	7872411420640462	CMakeFiles/terrain.dir/include/imgui/imgui_draw.cpp.obj	69ed89457b36f1a6
 49	3293	7872411420812264	CMakeFiles/terrain.dir/include/imgui/imgui_widgets.cpp.obj	b79d669dcf5a7d17
-18	3823	7872414679965089	CMakeFiles/terrain.dir/src/Camera.cpp.obj	a2f83200e3b52e08
+16	1414	7872425557673043	CMakeFiles/terrain.dir/src/Camera.cpp.obj	a2f83200e3b52e08
 22	4784	7872414679965089	CMakeFiles/terrain.dir/src/SkyBox.cpp.obj	c9d81d95ca9e267
 25	5596	7872414679965089	CMakeFiles/terrain.dir/src/Terrain.cpp.obj	84e3ab3aa0e69be3
 34	3997	7872414680097761	CMakeFiles/terrain.dir/src/main.cpp.obj	f07c095ee09b201c
-20	2221	7872416783391270	CMakeFiles/terrain.dir/src/World.cpp.obj	4641877e860f7128
-2222	2466	7872416805333371	C:/Users/etulyon1/Ferhat/code/CPP/openGL/infinite_terrain/terrain.exe	a7582f7dae480176
-16	1414	7872425557673043	CMakeFiles/terrain.dir/src/Camera.cpp.obj	a2f83200e3b52e08
-1415	1656	7872425571691946	C:/Users/etulyon1/Ferhat/code/CPP/openGL/infinite_terrain/terrain.exe	a7582f7dae480176
+18	2263	7872460422656616	CMakeFiles/terrain.dir/src/World.cpp.obj	4641877e860f7128
+2265	2567	7872460445155295	C:/Users/etulyon1/Ferhat/code/CPP/openGL/infinite_terrain/terrain.exe	a7582f7dae480176
